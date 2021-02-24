@@ -1,0 +1,23 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+ 
+
+```{r}
+library(readxl)
+
+bikes <- read.csv("./bikesharing.csv")
+
+View(bikes)
+
+```
+
+
+```{r}
+
+
+ 
+```
+ 
